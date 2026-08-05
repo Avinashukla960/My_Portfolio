@@ -71,7 +71,7 @@ git clone https://github.com/Avinashukla960/Avinash-Shukla.git
 
 # 2. Navigate into the project
 ```bash
-cd Avinash+Shukla
+cd Avinash-Shukla
 ```
 
 # 3. Open in your browser
