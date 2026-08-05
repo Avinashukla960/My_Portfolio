@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avinashukla960.github.io/Avinash-Shukla/sitemap.xml
